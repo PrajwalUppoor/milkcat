@@ -58,7 +58,7 @@ const Nav = styled.nav`
     align-items: center;
     .logo {
       img {
-        height: 5vh;
+        height: 10vh;
       }
     }
     .toggle {
