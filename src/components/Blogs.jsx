@@ -23,6 +23,21 @@ export default function Blogs() {
             </div>
          
       </div>
+     <div className="title">
+        <h2>Tockenomics</h2>
+      </div>
+      <div className="blogs">
+      <div className="blog" >
+              
+              <div className="data">
+                <p>
+                Liquidity Fee - 4   
+                Marketing Fee - 4
+                Rewards Fee - 2
+                </p>
+              </div>
+            </div>
+            </div>
     </Section>
   );
 }
