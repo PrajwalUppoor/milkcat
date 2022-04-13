@@ -3,7 +3,6 @@ import styled from "styled-components";
 import background from "../assets/background.png";
 import image from "../assets/home.png";
 import Button from "./Button";
-import { RiGroupLine } from "react-icons/ri";
 export default function Home() {
   return (
     <Section id="home">
@@ -16,7 +15,7 @@ export default function Home() {
         <span className="highlight"> Milkomeda </span> will scream milk cat until it reaches heaven and beyond c
 
         </p>
-        {/* <Button text="Join Our Discord" icon={<RiGroupLine />} /> */}
+         <Button text="Buy on Milkswap" /> 
       </div>
       <div className="image">
         {/* <img src={image} alt="Home Image" /> */}
